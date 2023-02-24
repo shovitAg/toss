@@ -1,0 +1,25 @@
+/* height: 100vh;
+height: calc(var(-vh, 1vh) * 100); */
+body {
+  background-attachment: fixed;
+  background-image: url("https://media.istockphoto.com/id/119605894/photo/cricket-field-background.jpg?s=612x612&w=0&k=20&c=7pGEiI5NlOwmIYj0wdcGlwn1MsNaURCt946AT5VyHoo=");
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+
+.text {
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+h1 {
+  text-decoration: underline;
+  margin-top: 3%;
+  font-size: 3rem;
+}
+
+h2 {
+  margin-top: 5%;
+  font-size: 3rem;
+}
